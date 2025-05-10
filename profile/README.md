@@ -1,6 +1,6 @@
 # Bir Yolunu Bulup Her Yerde Allah'ı Anlatmak 
 
-[![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+[![Support Palestine](https://raw.githubusercontent.com/mustafagenc/palestine/refs/heads/main/banners/b-2.svg)](https://github.com/mustafagenc/palestine/blob/main/Support.md)
 
 Gençlerin dilinden samimi, sempatik ve bazen de etkileyici konuşmalarla binlerin hayatı değişti. Kiminin namazına… Kiminin tesettürüne… Kiminin gayr-ı meşruyu terk etmesine vesile olundu. Bir internet kablosuyla milyonlarca eve girip Rab Teala anlatıldı.
 
